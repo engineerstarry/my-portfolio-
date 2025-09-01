@@ -28,7 +28,7 @@ font-size:40px;
 
 #navbar
 {
-  position:fixed;
+  position:static;
 top:0;
 display:flex;
 justify-content:space-evenly;
